@@ -1,3 +1,4 @@
 [submodule "src/code.cloudfoundry.org/eirini"]
 	path = src/code.cloudfoundry.org/eirini
-	url = https://github.com/cloudfoundry-incubator/eirini
+	url = https://github.com/viovanov/eirini.git
+	branch = vladi/optional-ingress
